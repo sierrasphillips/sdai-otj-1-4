@@ -41,3 +41,13 @@
     padding: .25em;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image-width {
+    width: 200px;
+}
